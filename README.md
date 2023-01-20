@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 :mailbox: How to reach me: hcraker@ucar.edu
 
-<p>
+<p align="center">
    <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=hCraker&theme=material-palenight" />   
 </p>
