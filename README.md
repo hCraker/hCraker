@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 :seedling: I’m currently learning how to apply for grad school!
 
-:mailbox: How to reach me: hcraker@ucar.edu
+:mailbox: How to reach me: hcraker@ucar.edu [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heather-craker-91a11b266/)
 
 <p align="center">
    <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=hCraker&theme=material-palenight" />   
