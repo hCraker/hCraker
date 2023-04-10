@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 
 
-:telescope: I’m currently a python software engineer working at NCAR on the Geoscience Community Analysis Toolkit (GeoCAT) team. My primary project is the [GeoCAT-comp repository](https://github.com/NCAR/geocat-comp) where I create new geoscience speficic computational functions for Earth scientists to use in their workflows.
+:telescope: I’m currently a back end software engineer [Chloris Geospatial](https://www.chloris.earth/).
 
-:sauropod: In the past, I've worked extensively on the [GeoCAT Example Gallery](https://geocat-examples.readthedocs.io/en/latest/index.html), which has a large variety of scientific data visualizations specifically for the Earth sciences. 
+:sauropod: In the past, I've worked on the Geoscience Community Analysis Toolkit ([GeoCAT](geocat.ucar.edu)) team creating geoscience [data visualization examples](https://geocat-examples.readthedocs.io/en/latest/index.html) and [computational software](https://geocat-comp.readthedocs.io/en/stable/).
 
-:seedling: I’m currently learning how to apply for grad school!
+:seedling: I’m currently getting integrated into my new team at Chloris!
 
-:mailbox: How to reach me: hcraker@ucar.edu [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heather-craker)
+:mailbox: How to reach me: heather@chloris.earth [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heather-craker)
 
 <p align="center">
    <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=hCraker&theme=material-palenight" />   
