@@ -1,6 +1,6 @@
 # Heather Craker
 
-### Scientific Software Engineer
+## Scientific Software Engineer
 
 <!--
 **hCraker/hCraker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,23 +16,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Python is my language of choice for all things geoscience 🌎! I have primarily done work in the weather and climate realm processing and analysing data for scientists.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-
-##### Some of the tools I use:
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter)](https://jupyter.org/try)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 
+#### Some of the tools I use:
+- Visualization: [Matplotlib](https://matplotlib.org/), [Holoviz](https://holoviz.org/)
+- Computation: [Numpy](https://numpy.org/), [Xarray](https://docs.xarray.dev/en/stable/), [Dask](https://www.dask.org/) 
+- General: [Jupyter](https://jupyter.org/try)
 
 
-:telescope: I’m currently a back end software engineer [Chloris Geospatial](https://www.chloris.earth/).
+#### Quick Facts About Me
+🛠️ I’m currently a back end software engineer [Chloris Geospatial](https://www.chloris.earth/) developing software to validate our above ground biomass models.
 
-:sauropod: In the past, I've worked on the Geoscience Community Analysis Toolkit ([GeoCAT](geocat.ucar.edu)) team creating geoscience [data visualization examples](https://geocat-examples.readthedocs.io/en/latest/index.html) and [computational software](https://geocat-comp.readthedocs.io/en/stable/).
+🦕 In the past, I've worked on the Geoscience Community Analysis Toolkit ([GeoCAT](geocat.ucar.edu)) team creating geoscience [data visualization examples](https://geocat-examples.readthedocs.io/en/latest/index.html) and [computational software](https://geocat-comp.readthedocs.io/en/stable/).
 
-:seedling: I’m currently getting integrated into my new team at Chloris!
+📫 How to reach me: heather@chloris.earth [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heather-craker)
 
-:mailbox: How to reach me: heather@chloris.earth [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heather-craker)
+-----
+#### Fun Stuff!
+🌱 I absolutely love plants and the weather! My other hobbies include crafting (knitting mostly) and baking.
 
+🐶 This is my dog Lola! I love her bunches 🥰
+
+<img src=https://github.com/hCraker/hCraker/assets/42781301/2eff4b94-cb27-494b-b5e0-2835f11767ee height=400/>
+
+
+
+<!--
 <p align="center">
    <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=hCraker&theme=material-palenight" />   
 </p>
+-->
